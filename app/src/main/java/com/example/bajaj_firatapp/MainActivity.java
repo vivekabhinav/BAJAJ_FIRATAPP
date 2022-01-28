@@ -37,15 +37,15 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     private void sendContact() {
-        //get the contact from edittext
+
         EditText nameEditText = findViewById(R.id.etName);
         String contact = nameEditText.getText().toString();
-        //put the contact in intent
+
         Intent cIntent = new Intent();
         cIntent.putExtra("con",contact);
-        //set the result
+
         setResult(RESULT_OK,cIntent);
-        //close this activity
+
         finish();
     }
 
