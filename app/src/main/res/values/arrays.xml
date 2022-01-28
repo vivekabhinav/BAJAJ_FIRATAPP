@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cuisines">
+        <item>italian</item>
+        <item>russian</item>
+        <item>indian</item>
+        <item>chinese</item>
+        <item>mexican</item>
+        <item>Israeli</item>
+        <item>Shawarma</item>
+    </string-array>
+</resources>
