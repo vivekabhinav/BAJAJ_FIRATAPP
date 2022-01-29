@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078705412961",
+    "project_id": "bajaj-first-app",
+    "storage_bucket": "bajaj-first-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078705412961:android:47e13a7b647522c4a34320",
+        "android_client_info": {
+          "package_name": "com.example.bajaj_firatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078705412961-3dnshpvjmim93cd8er289l5sg0ib2d2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqYhyszU5vMFtdXGHt0fBq8nnyOPEwSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078705412961-3dnshpvjmim93cd8er289l5sg0ib2d2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
