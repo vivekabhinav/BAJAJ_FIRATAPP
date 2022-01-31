@@ -14,6 +14,8 @@
     <string name="duration">Custom Duration</string>
     <string name="go_to_sydney">Go to Sydney</string>
     <string name="go_to_bondi">Go to Bondi</string>
+    <string name="latitude_label">Latitude: %f</string>
+    <string name="longitude_label">Longitude: %f</string>
     <string name="map_not_ready">Map is not ready yet</string>
 
 </resources>
